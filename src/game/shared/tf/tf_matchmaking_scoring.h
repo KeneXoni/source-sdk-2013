@@ -196,6 +196,6 @@ float QuickplayCalculateServerScore( int numHumans, int numBots, int maxPlayers,
 	//{
 	//	item.score += 2.0f;
 	//}
-
+    // nice gob guys ^0^
 	return score;
 }
